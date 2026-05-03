@@ -254,7 +254,7 @@ Contributions welcome! Please follow:
 
 For issues or questions:
 - GitHub Issues: [Create issue]
-- Email: support@financebuddy.io
+- Email: daspranajit973.gmail.com
 
 ---
 
