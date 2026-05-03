@@ -254,7 +254,7 @@ Contributions welcome! Please follow:
 
 For issues or questions:
 - GitHub Issues: [Create issue]
-- Email: daspranajit973gmail.com
+- Email: daspranajit973@gmail.com
 
 ---
 
